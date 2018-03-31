@@ -1,6 +1,9 @@
-﻿  main.cpp
-c:\users\patfa\source\repos\datastructures\datastructures\main.cpp(13): warning C4101: 'choice2': unreferenced local variable
-c:\users\patfa\source\repos\datastructures\datastructures\main.cpp(15): warning C4101: 'choice4': unreferenced local variable
-c:\users\patfa\source\repos\datastructures\datastructures\main.cpp(12): warning C4101: 'choice1': unreferenced local variable
-c:\users\patfa\source\repos\datastructures\datastructures\main.cpp(14): warning C4101: 'choice3': unreferenced local variable
-  DataStructures.vcxproj -> C:\Users\patfa\source\repos\DataStructures\x64\Debug\DataStructures.exe
+﻿  stdafx.cpp
+  LinkedList.cpp
+  main.cpp
+c:\users\patfa\onedrive\desktop\mywork\testing\datastructures\datastructures\main.cpp(13): warning C4101: 'choice2': unreferenced local variable
+c:\users\patfa\onedrive\desktop\mywork\testing\datastructures\datastructures\main.cpp(15): warning C4101: 'choice4': unreferenced local variable
+c:\users\patfa\onedrive\desktop\mywork\testing\datastructures\datastructures\main.cpp(12): warning C4101: 'choice1': unreferenced local variable
+c:\users\patfa\onedrive\desktop\mywork\testing\datastructures\datastructures\main.cpp(14): warning C4101: 'choice3': unreferenced local variable
+  Generating Code...
+  DataStructures.vcxproj -> C:\Users\patfa\OneDrive\Desktop\MyWork\Testing\DataStructures\x64\Debug\DataStructures.exe
